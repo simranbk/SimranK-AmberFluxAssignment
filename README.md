@@ -4,3 +4,11 @@ Here is the video to frame status:
 
 As for the search, `image_0` was used, and here is the result:  
 ![Search Result](results/search_result.png)
+
+## Setup
+
+To install the required Python packages, run:
+
+```bash
+pip install -r requirements.txt
+```
